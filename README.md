@@ -11,9 +11,6 @@
 </div>
 
 ---
-<p align="center"><img src=".github/img/Header.gif"></p>
-
----
 
 ### My configs
 
