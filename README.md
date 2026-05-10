@@ -14,7 +14,7 @@
 
 ### My configs
 
-📂 <a href="" target="_blank" rel="noopener noreferrer" alt="VScode-Settings">VScode-Settings</a> (Settings, snippets, keybindings)<br>
+📂 <a href="https://github.com/Yuria-Developer/VScode-Settings" target="_blank" rel="noopener noreferrer" alt="VScode-Settings">VScode-Settings</a> (Settings, snippets, keybindings)<br>
 
 ---
 
